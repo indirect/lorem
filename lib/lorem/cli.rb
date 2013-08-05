@@ -6,8 +6,8 @@ module Lorem
     desc "ipsum", "Lorem Ipsum text generator"
       def ipsum
       Lorem.ipsum
+      end
     end
   end
-end
 
 
